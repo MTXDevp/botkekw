@@ -1,0 +1,26 @@
+{
+  "name": "botkekw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTXDevp/botkekw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MTXDevp/botkekw/issues"
+  },
+  "homepage": "https://github.com/MTXDevp/botkekw#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "ghost-cursor": "^1.1.8",
+    "puppeteer": "^13.1.2",
+    "selenium-webdriver": "^4.1.1"
+  }
+}
